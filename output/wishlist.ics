@@ -1,4 +1,439 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:SteamWishlistCalendar
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:Titan Quest II
+UID:1154030
+DESCRIPTION:https://store.steampowered.com/app/1154030\n\nNemesis\, Goddess
+  of Retribution\, is out of control. She is corrupting the Threads of Fate
+  and punishing all those who oppose her. Take up your weapon\, fight 
+ alongside gods\, and change fate itself in Titan Quest II\, an action RPG 
+ inspired by Greek mythology.\n\nDate string from steam: "2025-08-01"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251029
+DTEND;VALUE=DATE:20251030
+SUMMARY:The Outer Worlds 2
+UID:1449110
+DESCRIPTION:https://store.steampowered.com/app/1449110\n\nThe Outer Worlds 
+ 2 is the sequel to the award-winning first-person sci-fi RPG from Obsidian
+  Entertainment.\n\nDate string from steam: "2025-10-29"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250904
+DTEND;VALUE=DATE:20250905
+SUMMARY:Hell is Us
+UID:1620730
+DESCRIPTION:https://store.steampowered.com/app/1620730\n\nIf war is the 
+ closest we get to hell on earth\, it's because Earth harbours the worst of
+  demons: humankind. In an isolated country ravaged by infighting\, 
+ discover the secrets of your past and deal with the repercussions of a 
+ mysterious calamity.\n\nDate string from steam: "2025-09-04"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250417
+DTEND;VALUE=DATE:20250418
+SUMMARY:Pax Augusta
+UID:1989760
+DESCRIPTION:https://store.steampowered.com/app/1989760\n\nPax Augusta is 
+ probably the most authentic ancient city-building simulation. Build 
+ flourishing cities and look after your citizens. Earn gold with production
+  and trade of goods and build impressive monuments. Strengthen your 
+ influence and become a Roman emperor!\n\nDate string from steam: 
+ "2025-04-17"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:GreedFall: The Dying World
+UID:1997660
+DESCRIPTION:https://store.steampowered.com/app/1997660\n\nReturn to the 
+ GreedFall universe in a thrilling new adventure\, where every choice has 
+ consequences. Ripped away from your island\, you will travel across the 
+ war-torn\, disease-ravaged Old Continent\, forging alliances\, and 
+ fighting to regain your freedom!\n\nDate string from steam: "2026-03-10"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:STAR WARS Zero Company™
+UID:2075800
+DESCRIPTION:https://store.steampowered.com/app/2075800\n\nCommand an elite 
+ squad through a gritty and authentic story in STAR WARS Zero Company™\, a 
+ single-player turn-based tactics game set in the twilight of the Clone 
+ Wars™.\r\n\n\nDate string from steam: "2026-08-27"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Fatekeeper
+UID:2186990
+DESCRIPTION:https://store.steampowered.com/app/2186990\n\nVenture into a 
+ handcrafted world where ruins whisper of past cataclysms. Master the art 
+ of sword and sorcery and forge your path with relics\, spells and choices 
+ that shape who you become in this first-person RPG. \n\nDate string from 
+ steam: "2026-06-02"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240919
+DTEND;VALUE=DATE:20240920
+SUMMARY:God of War Ragnarök
+UID:2322010
+DESCRIPTION:https://store.steampowered.com/app/2322010\n\nKratos and Atreus
+  embark on a mythic journey for answers before Ragnarök arrives – now on 
+ PC.\n\nDate string from steam: "2024-09-19"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250828
+DTEND;VALUE=DATE:20250829
+SUMMARY:METAL GEAR SOLID Δ: SNAKE EATER
+UID:2417610
+DESCRIPTION:https://store.steampowered.com/app/2417610\n\nA remake of the 
+ 2004 game METAL GEAR SOLID 3: SNAKE EATER\, with the same gripping story 
+ and engrossing world\, now with all new graphics and 3D audio that enhance
+  the jungle atmosphere. Get ready for the ultimate survival stealth action
+  experience.\n\nDate string from steam: "2025-08-28"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Nova Roma
+UID:2426530
+DESCRIPTION:https://store.steampowered.com/app/2426530\n\nThe glory of Rome
+  is at your fingertips in this city-building game where you must appease 
+ the gods\, enact laws\, and develop complex supply chains to meet the 
+ needs of your citizens.\n\nDate string from steam: "2026-03-26"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Realm of Ink
+UID:2597080
+DESCRIPTION:https://store.steampowered.com/app/2597080\n\nRealm of Ink is 
+ an Ink-style action Roguelite game. While pursuing the Fox Demon\, the 
+ swordswoman Red\, unexpectedly finds that her life is dictated by the 
+ 'destiny' within the world of the book. Only by breaking free can she 
+ unveil the truth of her existence and challenge the constraints of 
+ fate.\n\nDate string from steam: "2026-05-26"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241018
+SUMMARY:Citadelum
+UID:2603020
+DESCRIPTION:https://store.steampowered.com/app/2603020\n\nCitadelum is a 
+ city builder set in legendary Ancient Rome. Build your own settlement\, 
+ gather resources and evolve it into a magnificent city. Explore the 
+ world\, trade and lead your mighty legions in epic tactical battles. Earn 
+ the favor of the Gods or challenge them\, if you dare.\n\nDate string from
+  steam: "2024-10-17"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:Pompeii: The Legacy
+UID:2632240
+DESCRIPTION:https://store.steampowered.com/app/2632240\n\nRebuild Pompeii 
+ from the ashes and lead it through centuries of politics\, intrigue\, and 
+ survival. Shape laws\, expand trade across the Empire\, guide your city 
+ through disasters\, and command legions in optional real-time battles. 
+ Your legacy begins now.\n\nDate string from steam: "2026-04-09"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Fable
+UID:2769570
+DESCRIPTION:https://store.steampowered.com/app/2769570\n\nBecome the Hero 
+ you want to be in an immersive open-world action-RPG where each choice 
+ shapes your journey\, reputation is everything\, and fairytale endings are
+  never guaranteed. \n\nDate string from steam: "2027-02-23"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:The Relic: First Guardian
+UID:2827820
+DESCRIPTION:https://store.steampowered.com/app/2827820\n\nA dark action RPG
+  rooted in Korean mythology\, with brutal\, fast combat.\n\nDate string 
+ from steam: "2026-07-30"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Citystate Metropolis
+UID:2828020
+DESCRIPTION:https://store.steampowered.com/app/2828020\n\nThe creative\, 
+ pragmatic\, limitless city builder. Engineer a masterpiece of urban 
+ design\, a small sustainable town or a futuristic metropolis. With 
+ procedurally generated buildings\, grid-less zoning and powerful editor 
+ tools\, everything is customizable: the city is yours.\n\nDate string from
+  steam: "2026-12-31"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Valor Mortis
+UID:2828710
+DESCRIPTION:https://store.steampowered.com/app/2828710\n\nValor Mortis is a
+  first-person action soulslike from the creators of Ghostrunner. Rise from
+  death as a former soldier of Napoleon’s army. Wield supernatural powers\,
+  battle horrifying monsters\, and unravel a conspiracy that threatens all 
+ of humanity.\n\nDate string from steam: "2026-10-13"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250123
+DTEND;VALUE=DATE:20250124
+SUMMARY:FINAL FANTASY VII REBIRTH
+UID:2909400
+DESCRIPTION:https://store.steampowered.com/app/2909400\n\nThe Unknown 
+ Journey Continues... After escaping the city of Midgar\, Cloud and his 
+ friends set out on a journey across the planet. New adventures await in a 
+ vibrant\, expansive world in this standalone entry of the FFVII remake 
+ trilogy.\n\nDate string from steam: "2025-01-23"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240827
+DTEND;VALUE=DATE:20240828
+SUMMARY:The Lord of the Rings: Return to Moria™
+UID:2933130
+DESCRIPTION:https://store.steampowered.com/app/2933130\n\nA survival 
+ crafting adventure set in the Fourth Age of Middle-earth. Lead the Dwarves
+  to reclaim Moria - mine\, build\, and battle through procedurally 
+ generated depths alone or with up to 8 players in co-op. It is time to 
+ return to Moria! \n\nDate string from steam: "2024-08-27"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:The Guild 1 Remake: Europa 1410
+UID:2977260
+DESCRIPTION:https://store.steampowered.com/app/2977260\n\nChoose from 
+ professions like Smith\, Preacher or Alchemist to gain riches in this 
+ medieval economic simulation. Climb the social ladder\, dominate 
+ politics\, and lead your dynasty to power over multiple generations to 
+ ensure your legacy.\n\nDate string from steam: "2026-09-17"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Town to City
+UID:3115220
+DESCRIPTION:https://store.steampowered.com/app/3115220\n\nBuild an idyllic 
+ 19th century Mediterranean town and help it flourish into a prosperous 
+ city. Freely place and customise each element to create the perfect home 
+ for your growing population in this cozy city builder from the creators of
+  Station to Station.\n\nDate string from steam: "2026-05-26"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:Masters of Albion
+UID:3165650
+DESCRIPTION:https://store.steampowered.com/app/3165650\n\nA bold 
+ reimagining of the God Game genre from the creator who defined it. Shape a
+  living world as a god - or step into it and experience it through your 
+ people. Build\, guide and defend your town by day\, then survive the night
+  when everything is under threat. There is no single solution. Only yours.
+  \n\nDate string from steam: "2026-04-22"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:County of Fortune
+UID:3204330
+DESCRIPTION:https://store.steampowered.com/app/3204330\n\nBuild an entire 
+ medieval county\, not just a city. Found villages across a wide\, varied 
+ landscape\, weave trade along rivers and roads\, and guide mayors\, noble 
+ houses\, and cultures as your region comes to life. A city-builder on a 
+ much bigger scale\, no two counties are alike.\n\nDate string from steam: 
+ "2026-11-05"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:DEATH STRANDING 2: ON THE BEACH
+UID:3280350
+DESCRIPTION:https://store.steampowered.com/app/3280350\n\nSam – with 
+ companions by his side – sets out on a new journey to save humanity from 
+ extinction.\r\n\r\nJoin them as they traverse a world beset by 
+ otherworldly enemies\, obstacles and a haunting question: should we have 
+ connected?\n\nDate string from steam: "2026-03-19"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:ENDLESS Legend™ 2
+UID:3407390
+DESCRIPTION:https://store.steampowered.com/app/3407390\n\nLead your people 
+ to victory on an ever-evolving world in this strategy game featuring 
+ asymmetric factions led by powerful heroes. Build your empire\, wield 
+ political influence\, and raise grand armies to wage war in a race to 
+ uncover dark secrets buried within the planet.\n\nDate string from steam: 
+ "2026-09-17"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Transport Fever 3
+UID:3493540
+DESCRIPTION:https://store.steampowered.com/app/3493540\n\nTransport Fever 
+ 3\, the ultimate transport tycoon returns\, bigger\, deeper\, and more 
+ dynamic than ever. Build the routes that transform the world across land\,
+  sea\, and sky using over a century of evolving transport options. Design 
+ and build your ideal transport network.\n\nDate string from steam: 
+ "2026-09-29"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:CONTROL Resonant
+UID:3669870
+DESCRIPTION:https://store.steampowered.com/app/3669870\n\nExplore a warped 
+ Manhattan on the brink of paranatural annihilation in this thrilling 
+ action-adventure RPG. Unleash the extraordinary powers of Dylan Faden as 
+ he fights for his humanity and our survival against a reality-bending 
+ cosmic threat.\n\nDate string from steam: "2026-09-24"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Warlock: Dungeons & Dragons
+UID:3714800
+DESCRIPTION:https://store.steampowered.com/app/3714800\n\nPlay as Kaatri in
+  Warlock\, a single-player\, third-person action-adventure set in a 
+ D&D-inspired open world. Wield forbidden magic to bend the rules around 
+ you. Across exploration and combat\, every challenge is a test of 
+ creativity\, preparation\, and cunning.\n\nDate string from steam: 
+ "2027-12-31"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Assassin's Creed Black Flag Resynced
+UID:3751950
+DESCRIPTION:https://store.steampowered.com/app/3751950\n\nThe iconic solo 
+ pirate adventure returns. Sail the Caribbean as Edward Kenway during the 
+ Golden Age of Piracy in this faithfully enhanced remake featuring stunning
+  visuals\, upgraded gameplay\, and new content.\n\nDate string from steam:
+  "2026-07-09"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:1666: Amsterdam
+UID:3949550
+DESCRIPTION:https://store.steampowered.com/app/3949550\n\nEvery 333 years\,
+  something stirs. 1666: Amsterdam is a 3rd person Dark\, Story-Led\, 
+ Action-Adventure where Noa\, the Collector\, wields witchcraft to uncover 
+ demonic entities hiding behind human faces. Investigate by day. Face your 
+ demons at night.\n\nDate string from steam: "2026-08-25"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Phantom Blade Zero
+UID:4115450
+DESCRIPTION:https://store.steampowered.com/app/4115450\n\nS-GAME presents 
+ Phantom Blade Zero\, a fusion of classic Wuxia storytelling and 
+ exhilarating action powered by Unreal Engine 5. You play as Soul\, a 
+ warrior with only sixty-six days left to live. Fend off assassins\, 
+ unravel world-ending conspiracies\, and defend your values with your 
+ life.\n\nDate string from steam: "2026-10-29"
+LAST-MODIFIED:20260921T194206Z
+DTSTAMP:20260921T194206Z
+CATEGORIES:game_release
+END:VEVENT
 END:VCALENDAR
